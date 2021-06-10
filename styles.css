@@ -21,3 +21,9 @@ body {
 hr {
   border-top: 5px dashed black;
 }
+
+ol {
+  font-family: 'Lato', sans-serif;
+  font-size: 20px;
+  list-style-type: georgian;
+}
