@@ -1,0 +1,23 @@
+h1 {
+  font-family: 'Cookie', cursive;
+  font-size: 60px;
+}
+
+h3 {
+  font-family: 'Cookie', cursive;
+  font-size: 40px;
+}
+
+p {
+  font-family: 'Lato', sans-serif;
+  font-size: 20px;
+}
+
+body {
+  background-image: url(animals.jpg);
+  background-size: 100% auto;
+}
+
+hr {
+  border-top: 5px dashed black;
+}
